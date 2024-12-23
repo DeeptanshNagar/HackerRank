@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-class Result {
+class Result { 
 
     /*
      * Complete the 'aVeryBigSum' function below.
